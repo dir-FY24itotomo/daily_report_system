@@ -5,7 +5,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-    <title><c:out value="日報管理システム" /></title>
+    <title><c:out value="Daily Report management system" /></title>
     <link rel="stylesheet" href="<c:url value='/css/reset.css' />">
     <link rel="stylesheet" href="<c:url value='/css/style.css' />">
 </head>
